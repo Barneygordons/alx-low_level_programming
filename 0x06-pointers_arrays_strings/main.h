@@ -2,6 +2,6 @@
 #define MAIN_H
 
 int _putchar(char c);
-char  *leet(char *);
+char  *rot13(char *);
 
 #endif /* MAIN_H */
